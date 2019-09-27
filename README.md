@@ -32,7 +32,7 @@ $ npm i -S https://github.com/SkyFlame00/eslint-plugin-lodash-to-native.git --sa
 $ ./node_modules/.bin/eslint <filename>
 ```
 
-В VS Code нужно установить (это расширение)[https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint] и после его установки и установки зависимостей перезагрузить редактор.
+В VS Code нужно установить [это расширение](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) и после его установки и установки зависимостей перезагрузить редактор.
 
 ## Что сделано
 
